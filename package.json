@@ -1,0 +1,15 @@
+{
+  "name": "bot-axioai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "contato@diegoorisderoa.com ( Diego Henrique Oris de Roa Antunes )",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.65.1",
+    "openai": "^4.32.2"
+  }
+}
